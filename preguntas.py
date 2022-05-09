@@ -57,8 +57,6 @@ La información contenida en la muestra es la siguiente:
 """
 
 import pandas as pd
-from sklearn.preprocessing import OneHotEncoder
-from sqlalchemy import column
 
 
 def pregunta_01():
